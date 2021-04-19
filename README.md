@@ -38,9 +38,7 @@
   <a href="https://igouist.github.io/index.xml">
     <img alt="RSS" src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white"/>
   </a>
-  
 <br/>
-
     <img alt=".net" algin="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
     <img alt="c#" algin="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
     <img alt="Python" algin="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
