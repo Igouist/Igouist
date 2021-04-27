@@ -13,16 +13,6 @@
   </a>
 </p>
 
-<h2 align="center">✨ STATS ✨</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igouist&hide=HTML,CSS&layout=compact&bg_color=0D1117&text_color=BBBBBB&hide_border=true"><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=igouist&count_private=true&show_icons=true&hide=contribs,prs&bg_color=0D1117&text_color=BBBBBB&hide_border=true"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Igouist&layout=compact&bg_color=0D1117&text_color=BBBBBB&hide_border=true&custom_title=Wakatime%20stats%20%28Last%20week%29"><br/>
-</p>
-
-
-
 <h2 align="center">🔖 TAGS 🔖</h2>
 
 <p align="center">
@@ -45,3 +35,10 @@
     <img alt="git" algin="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></img>
 </p>
 
+<h2 align="center">✨ STATS ✨</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igouist&hide=HTML,CSS&layout=compact&bg_color=0D1117&text_color=BBBBBB&hide_border=true"><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=igouist&count_private=true&show_icons=true&hide=contribs,prs&bg_color=0D1117&text_color=BBBBBB&hide_border=true"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Igouist&layout=compact&bg_color=0D1117&text_color=BBBBBB&hide_border=true&custom_title=Wakatime%20stats%20%28Last%20week%29"><br/>
+</p>
