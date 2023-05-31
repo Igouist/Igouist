@@ -40,5 +40,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igouist&hide=HTML,CSS&layout=compact&bg_color=0D1117&text_color=BBBBBB&hide_border=true"><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=igouist&count_private=true&show_icons=true&hide=contribs,prs&bg_color=0D1117&text_color=BBBBBB&hide_border=true"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Igouist&layout=compact&bg_color=0D1117&text_color=BBBBBB&hide_border=true&custom_title=Wakatime%20stats%20%28Last%20week%29"><br/>
+  <img src="https://github-readme-stats-git-fixwaka-605c1a-github-readme-stats-team.vercel.app/api/wakatime?username=Igouist&layout=compact&bg_color=0D1117&text_color=BBBBBB&hide_border=true&custom_title=Wakatime%20stats%20%28Last%20week%29"><br/>
 </p>
