@@ -33,6 +33,8 @@
     <img alt="c#" algin="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
     <img alt="Python" algin="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
     <img alt="git" algin="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></img>
+<br/>
+    <img alt="markdown_totaltime" algin="center" src="https://wakatime.com/badge/user/f791aed8-6784-4231-8f41-7f0d2a29282c.svg"></img>
 </p>
 
 <h2 align="center">✨ STATS ✨</h2>
