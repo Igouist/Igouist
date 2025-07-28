@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://igouist.github.io/">
-    <img src="https://assets.matters.news/processed/540w/profileCover/711eb453-9a14-46bd-9d24-4da8d160a174.webp" border="0">
+    <img src="https://image.igouist.net/blog-cover-small.png" border="0">
   </a>
 </p>
 
