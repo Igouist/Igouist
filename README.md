@@ -13,6 +13,7 @@
   </a>
 </p>
 
+<!-- see: https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
 - [C#: 使用 PDFSharp 在 PDF 加上浮水印和檔案密碼吧](https://igouist.github.io/post/2025/07/dotnet-add-watermark-and-password-to-pdf-using-pdfsharp/)
 - [.Net: 善用 IServiceCollection Extension 和自製 Builder，讓服務註冊更有約束吧](https://igouist.github.io/post/2025/06/dotnet-using-iservicecollection-extensions-to-enforce-registration-constraints/)
