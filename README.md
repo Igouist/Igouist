@@ -14,6 +14,12 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [C#: 使用 PDFSharp 在 PDF 加上浮水印和檔案密碼吧](https://igouist.github.io/post/2025/07/dotnet-add-watermark-and-password-to-pdf-using-pdfsharp/)
+- [.Net: 善用 IServiceCollection Extension 和自製 Builder，讓服務註冊更有約束吧](https://igouist.github.io/post/2025/06/dotnet-using-iservicecollection-extensions-to-enforce-registration-constraints/)
+- [Imgur 一直 temporarily over capacity 嗎？先檢查網路看看吧](https://igouist.github.io/post/2025/06/imgur-temporarily-over-capacity-maybe-your-ip-banned/)
+- [Windows: 關閉 OneDrive 同步，並把我的文件移回預設路徑](https://igouist.github.io/post/2025/06/disable-onedrive-sync-and-restore-documents-folder/)
+- [C#: 使用 DinkToPdf 把 HTML 轉成 PDF 吧](https://igouist.github.io/post/2025/05/csharp-convert-html-to-pdf-using-dinktopdf/)
+- [《真三國無雙：起源》白金心得](https://igouist.github.io/post/2025/04/shin-sangoku-musou-origins/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">🔖 TAGS 🔖</h2>
