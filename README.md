@@ -9,7 +9,7 @@
 
 <p>
   <a href="https://igouist.github.io/">
-    <img src="https://image.igouist.net/blog-cover-small.png"  width="500" height="150" border="0">
+    <img src="https://image.igouist.net/blog-cover-black.png"  width="500" height="150" border="0">
   </a>
 </p>
 
