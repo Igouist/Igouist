@@ -16,12 +16,12 @@
 ### 📑 最新文章
 <!-- see: https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
+- [從紙筆到電子白板，我的 Heptabase 使用場景](https://igouist.github.io/post/2026/01/heptabase/)
 - [記一次把部落格圖片從 Imgur 搬到 Cloudflare R2 的過程](https://igouist.github.io/post/2025/07/migrate-blog-images-to-cloudflare-r2/)
 - [C#: 使用 PDFSharp 在 PDF 加上浮水印和檔案密碼吧](https://igouist.github.io/post/2025/07/dotnet-add-watermark-and-password-to-pdf-using-pdfsharp/)
 - [.Net: 善用 IServiceCollection Extension 和自製 Builder，讓服務註冊更有約束吧](https://igouist.github.io/post/2025/06/dotnet-using-iservicecollection-extensions-to-enforce-registration-constraints/)
 - [Imgur 一直 temporarily over capacity 嗎？先檢查網路看看吧](https://igouist.github.io/post/2025/06/imgur-temporarily-over-capacity-maybe-your-ip-banned/)
 - [Windows: 關閉 OneDrive 同步，並把我的文件移回預設路徑](https://igouist.github.io/post/2025/06/disable-onedrive-sync-and-restore-documents-folder/)
-- [C#: 使用 DinkToPdf 把 HTML 轉成 PDF 吧](https://igouist.github.io/post/2025/05/csharp-convert-html-to-pdf-using-dinktopdf/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🐽 熱門文章
