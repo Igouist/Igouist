@@ -62,9 +62,5 @@
 
 ## ✨ STATS
 
-<p>
-  <!-- <img alt="markdown_totaltime" algin="center" src="https://wakatime.com/badge/user/f791aed8-6784-4231-8f41-7f0d2a29282c.svg"></img><br/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igouist&hide=HTML,CSS&layout=compact&bg_color=0D1117&text_color=BBBBBB&hide_border=true"><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=igouist&count_private=true&show_icons=true&hide=contribs,prs&bg_color=0D1117&text_color=BBBBBB&hide_border=true"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Igouist&layout=compact&bg_color=0D1117&text_color=BBBBBB&hide_border=true&custom_title=Wakatime%20stats%20%28Last%20week%29"><br/>
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
