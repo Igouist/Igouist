@@ -35,7 +35,7 @@
 ### 🚽 最新動態
 
 <!-- BLOG-TIMELINE-LIST:START -->
-<!-- BLOG-TIMELINE-LIST:START -->
+<!-- BLOG-TIMELINE-LIST:END -->
 
 <br/>
 
