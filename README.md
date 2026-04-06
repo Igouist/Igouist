@@ -36,11 +36,11 @@
 
 <!-- BLOG-TIMELINE-LIST:START -->
 - [CLAUDE](https://igouist.github.io/timeline/#t-1775013630)
+- [賭場盈利效應](https://igouist.github.io/timeline/#t-1775013630)
 - [大語言模型的消費者](https://igouist.github.io/timeline/#t-1774706400)
 - [Typeless](https://igouist.github.io/timeline/#t-1773907200)
 - [Google Cloud AI Study Jam 2025 雜談](https://igouist.github.io/timeline/#t-1773903600)
 - [有些鳥兒本來就不該被關進籠裡](https://igouist.github.io/timeline/#t-1772370000)
-- [溫柔貼心的好鄰居：AutoMapper](https://igouist.github.io/timeline/#t-1771938000)
 <!-- BLOG-TIMELINE-LIST:END -->
 
 <br/>
