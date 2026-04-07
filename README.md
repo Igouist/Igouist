@@ -16,12 +16,12 @@
 ### 📑 最新文章
 <!-- see: https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
+- [部落卷 Blogroll](https://igouist.github.io/blogroll/)
 - [鴛鴦鍋就是要分成涮肉區和煮湯區才符合單一職責吧？](https://igouist.github.io/post/2026/02/split-pot-and-srp/)
 - [菜雞抓蟲：AutoMapper 出現奇怪的型別對應錯誤嗎？貼心的慣例式映射可能正在造訪你家](https://igouist.github.io/post/2026/02/automapper-flattening/)
 - [從紙筆到電子白板，我的 Heptabase 使用場景](https://igouist.github.io/post/2026/01/heptabase/)
 - [記一次把部落格圖片從 Imgur 搬到 Cloudflare R2 的過程](https://igouist.github.io/post/2025/07/migrate-blog-images-to-cloudflare-r2/)
 - [C#: 使用 PDFSharp 在 PDF 加上浮水印和檔案密碼吧](https://igouist.github.io/post/2025/07/dotnet-add-watermark-and-password-to-pdf-using-pdfsharp/)
-- [.Net: 善用 IServiceCollection Extension 和自製 Builder，讓服務註冊更有約束吧](https://igouist.github.io/post/2025/06/dotnet-using-iservicecollection-extensions-to-enforce-registration-constraints/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🐽 熱門文章
