@@ -35,8 +35,8 @@
 ### 🚽 最新動態
 
 <!-- BLOG-TIMELINE-LIST:START -->
+- [賭場盈利效應](https://igouist.github.io/timeline/#t-1775491901)
 - [CLAUDE](https://igouist.github.io/timeline/#t-1775013630)
-- [賭場盈利效應](https://igouist.github.io/timeline/#t-1775013630)
 - [大語言模型的消費者](https://igouist.github.io/timeline/#t-1774706400)
 - [Typeless](https://igouist.github.io/timeline/#t-1773907200)
 - [Google Cloud AI Study Jam 2025 雜談](https://igouist.github.io/timeline/#t-1773903600)
