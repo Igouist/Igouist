@@ -35,12 +35,12 @@
 ### 🚽 最新動態
 
 <!-- BLOG-TIMELINE-LIST:START -->
+- [紅藍眼謎題、共有知識和公共知識](https://igouist.github.io/timeline/#t-1775991600)
+- [寫作最好的收穫是訓練獨立思考的能力](https://igouist.github.io/timeline/#t-1775970600)
 - [賭場盈利效應](https://igouist.github.io/timeline/#t-1775491901)
 - [CLAUDE](https://igouist.github.io/timeline/#t-1775013630)
 - [大語言模型的消費者](https://igouist.github.io/timeline/#t-1774706400)
 - [Typeless](https://igouist.github.io/timeline/#t-1773907200)
-- [Google Cloud AI Study Jam 2025 雜談](https://igouist.github.io/timeline/#t-1773903600)
-- [有些鳥兒本來就不該被關進籠裡](https://igouist.github.io/timeline/#t-1772370000)
 <!-- BLOG-TIMELINE-LIST:END -->
 
 <br/>
