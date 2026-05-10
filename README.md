@@ -35,12 +35,12 @@
 ### 🚽 最新動態
 
 <!-- BLOG-TIMELINE-LIST:START -->
+- [選擇寫作的人們](https://igouist.github.io/timeline/#t-1778422200)
 - [Feature Flag 的退場機制](https://igouist.github.io/timeline/#t-1777209000)
 - [第一大腦需要餵養模型](https://igouist.github.io/timeline/#t-1776491400)
 - [紅藍眼謎題、共有知識和公共知識](https://igouist.github.io/timeline/#t-1775991600)
 - [寫作最好的收穫是訓練獨立思考的能力](https://igouist.github.io/timeline/#t-1775970600)
 - [賭場盈利效應](https://igouist.github.io/timeline/#t-1775491901)
-- [CLAUDE](https://igouist.github.io/timeline/#t-1775013630)
 <!-- BLOG-TIMELINE-LIST:END -->
 
 <br/>
