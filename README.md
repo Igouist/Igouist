@@ -80,9 +80,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 284.8 kB Used in GitHub's Storage 
+> 📦 284.9 kB Used in GitHub's Storage 
  > 
-> 🏆 481 Contributions in the Year 2026
+> 🏆 483 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,47 +90,6 @@
  > 
 > 🔑 37 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                1193 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-🌆 Daytime                1854 commits        ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-🌃 Evening                2958 commits        ██████████░░░░░░░░░░░░░░░   41.45 % 
-🌙 Night                  1132 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1204 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Tuesday                  841 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Wednesday                813 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Thursday                 735 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Friday                   770 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Saturday                 1144 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Sunday                   1630 commits        ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Other                    15 mins             ███████████░░░░░░░░░░░░░░   45.95 % 
-Markdown                 13 mins             ██████████░░░░░░░░░░░░░░░   39.52 % 
-JSON                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-
-🔥 Editors: 
-VS Code                  27 mins             █████████████████████░░░░   82.21 % 
-Claude Code              6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-
-💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 2026/05/19 19:19:23 UTC
+ Last Updated on 2026/05/21 19:17:13 UTC
 <!--END_SECTION:waka-->
