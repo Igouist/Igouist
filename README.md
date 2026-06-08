@@ -74,7 +74,9 @@
 ## ✨ STATS
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.98%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C723%20hrs%204%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.19%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -89,5 +91,5 @@
 > 🔑 37 Private Repositories 
  > 
 
- Last Updated on 2026/06/07 18:58:00 UTC
+ Last Updated on 2026/06/08 19:23:07 UTC
 <!--END_SECTION:waka-->
