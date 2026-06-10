@@ -90,6 +90,44 @@
  > 
 > 🔑 37 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 2026/06/09 19:21:42 UTC
+```text
+🌞 Morning                1384 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+🌆 Daytime                2160 commits        ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+🌃 Evening                3487 commits        ██████████░░░░░░░░░░░░░░░   41.67 % 
+🌙 Night                  1337 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1415 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Tuesday                  977 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Wednesday                954 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Thursday                 844 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Friday                   890 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Saturday                 1345 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Sunday                   1943 commits        ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Markdown                 1 hr 36 mins        █████████████████████████   99.38 % 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+
+🔥 Editors: 
+VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 36 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 2026/06/10 19:28:06 UTC
 <!--END_SECTION:waka-->
