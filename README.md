@@ -74,15 +74,15 @@
 ## ✨ STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C736%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C737%20hrs%2045%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.10%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.32%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 300.7 kB Used in GitHub's Storage 
+> 📦 301.5 kB Used in GitHub's Storage 
  > 
-> 🏆 612 Contributions in the Year 2026
+> 🏆 615 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,6 +90,49 @@
  > 
 > 🔑 37 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 2026/07/12 18:53:43 UTC
+```text
+🌞 Morning                1413 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+🌆 Daytime                2205 commits        ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
+🌃 Evening                3524 commits        ██████████░░░░░░░░░░░░░░░   41.48 % 
+🌙 Night                  1353 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1431 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Tuesday                  993 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Wednesday                987 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Thursday                 870 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Friday                   913 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Saturday                 1353 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Sunday                   1948 commits        ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Markdown                 4 hrs 37 mins       ███████████░░░░░░░░░░░░░░   43.56 % 
+C#                       4 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   41.52 % 
+Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Ezhil                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+
+🔥 Editors: 
+Claude Code              8 hrs 27 mins       ████████████████████░░░░░   79.55 % 
+VS Code                  1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Rider                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+ConsoleEmulator(x64)     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+
+💻 Operating System: 
+Windows                  10 hrs 37 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 2026/07/13 19:04:20 UTC
 <!--END_SECTION:waka-->
