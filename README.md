@@ -117,22 +117,22 @@ Sunday                   2190 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 18 hrs 26 mins      ██████████████░░░░░░░░░░░   55.68 % 
-TypeScript               6 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-Python                   3 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Text                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-HTML                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Markdown                 11 hrs 40 mins      █████████████░░░░░░░░░░░░   53.96 % 
+Python                   3 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+TypeScript               2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Text                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Diff                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🔥 Editors: 
-Claude Code              27 hrs 26 mins      █████████████████████░░░░   82.89 % 
-VS Code                  4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Rider                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-LINQPad7(X64)            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Claude Code              18 hrs 34 mins      █████████████████████░░░░   85.80 % 
+VS Code                  2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Rider                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+LINQPad7(X64)            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  33 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  21 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026/07/25 18:53:58 UTC
+ Last Updated on 2026/07/26 18:54:19 UTC
 <!--END_SECTION:waka-->
