@@ -74,9 +74,9 @@
 ## ✨ STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C526%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C527%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%2058%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.40%20million%20lines%20of%20code-blue?style=flat)
 
@@ -119,46 +119,48 @@ Sunday                   2043 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 12 hrs 38 mins      ██████████████░░░░░░░░░░░   56.50 % 
-C#                       6 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.94 % 
-JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Other                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-HTML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Markdown                 13 hrs 58 mins      ████████████████░░░░░░░░░   62.00 % 
+C#                       6 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.15 % 
+JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+HTML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 38 mins      ███████████████░░░░░░░░░░   60.95 % 
-Rider                    7 hrs               ████████░░░░░░░░░░░░░░░░░   31.33 % 
-VS Code                  1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Claude Code              13 hrs 39 mins      ███████████████░░░░░░░░░░   60.65 % 
+Rider                    5 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+VS Code                  3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Codex CLI                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 💻 Operating System: 
-Windows                  22 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 31 mins (24.68%)
+⏱ AI Coding Time: 6 hrs 4 mins (26.96%)
 
-✍️ 18,987 lines written by AI, 1,069 lines written by hand (94.67% AI-written)
+✍️ 20,510 lines written by AI, 937 lines written by hand (95.63% AI-written)
 
-🔤 229,830,421 Input Tokens, 1,391,148 Output Tokens
+🔤 231,761,446 Input Tokens, 1,400,023 Output Tokens
 
-💵 $709.23 Estimated AI Cost This Week
+💵 $717.45 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 232 AI Prompts
+🧠 20 AI Sessions, 255 AI Prompts
 
-Sonnet                   14,553 lines        ██████████████████░░░░░░░   72.45 % 
-Claude                   5,323 lines         ███████░░░░░░░░░░░░░░░░░░   26.50 % 
-Haiku                    212 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   14,553 lines        █████████████████░░░░░░░░   67.34 % 
+Claude                   5,323 lines         ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+Github-Copilot           1,523 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Haiku                    212 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.67% of written lines came from AI
-📄 Detailed Prompter — average 1,151 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 13.59% of changed lines were hand-edited
+🤖 AI-Driven — 95.63% of written lines came from AI
+📄 Detailed Prompter — average 1,363 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 8.08% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/08/02 18:53:32 UTC
+ Last Updated on 2026/08/04 19:08:48 UTC
 <!--END_SECTION:waka-->
