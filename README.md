@@ -74,10 +74,6 @@
 ## ✨ STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C529%20hrs%2040%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%205%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.40%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -119,48 +115,48 @@ Sunday                   2043 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 9 hrs 6 mins        ████████████████████░░░░░   78.49 % 
-Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-HTML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-C#                       24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Markdown                 5 hrs 35 mins       ██████████████████░░░░░░░   70.81 % 
+Other                    1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+C#                       27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Csproj                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 44 mins       ███████████████░░░░░░░░░░   58.11 % 
-VS Code                  3 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   30.82 % 
-Rider                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Codex CLI                35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+VS Code                  4 hrs 6 mins        █████████████░░░░░░░░░░░░   51.89 % 
+Claude Code              2 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.93 % 
+Codex CLI                35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Rider                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Windows                  11 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 31 mins (30.35%)
+⏱ AI Coding Time: 2 hrs 45 mins (34.85%)
 
-✍️ 7,510 lines written by AI, 227 lines written by hand (97.07% AI-written)
+✍️ 5,949 lines written by AI, 194 lines written by hand (96.84% AI-written)
 
-🔤 58,763,942 Input Tokens, 521,480 Output Tokens
+🔤 24,767,128 Input Tokens, 255,873 Output Tokens
 
-💵 $190.96 Estimated AI Cost This Week
+💵 $85.34 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 139 AI Prompts
+🧠 22 AI Sessions, 96 AI Prompts
 
-Sonnet                   5,021 lines         █████████████████░░░░░░░░   66.85 % 
-Github-Copilot           1,579 lines         █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-Claude                   911 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Sonnet                   3,918 lines         ████████████████░░░░░░░░░   65.85 % 
+Github-Copilot           1,751 lines         ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+Claude                   281 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.07% of written lines came from AI
-📚 Verbose Prompter — average 2,609 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 3.84% of changed lines were hand-edited
+🤖 AI-Driven — 96.84% of written lines came from AI
+📚 Verbose Prompter — average 3,100 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 4.29% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/08/05 20:12:37 UTC
+ Last Updated on 2026/08/07 00:29:16 UTC
 <!--END_SECTION:waka-->
