@@ -74,6 +74,10 @@
 ## ✨ STATS
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C530%20hrs%2026%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2026%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.40%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -115,48 +119,49 @@ Sunday                   2043 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 5 hrs 35 mins       ██████████████████░░░░░░░   70.81 % 
-Other                    1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-C#                       27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-Csproj                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Markdown                 3 hrs 12 mins       ████████████░░░░░░░░░░░░░   48.54 % 
+Other                    1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Python                   43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+C#                       27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 6 mins        █████████████░░░░░░░░░░░░   51.89 % 
-Claude Code              2 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.93 % 
-Codex CLI                35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Rider                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+VS Code                  4 hrs 9 mins        ████████████████░░░░░░░░░   62.96 % 
+Copilot CLI              1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Codex CLI                35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Claude Code              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Rider                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 💻 Operating System: 
-Windows                  7 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 45 mins (34.85%)
+⏱ AI Coding Time: 3 hrs 5 mins (46.68%)
 
-✍️ 5,949 lines written by AI, 194 lines written by hand (96.84% AI-written)
+✍️ 3,085 lines written by AI, 133 lines written by hand (95.87% AI-written)
 
-🔤 24,767,128 Input Tokens, 255,873 Output Tokens
+🔤 8,478,974 Input Tokens, 119,168 Output Tokens
 
-💵 $85.34 Estimated AI Cost This Week
+💵 $32.31 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 96 AI Prompts
+🧠 22 AI Sessions, 76 AI Prompts
 
-Sonnet                   3,918 lines         ████████████████░░░░░░░░░   65.85 % 
-Github-Copilot           1,751 lines         ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-Claude                   281 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Github-Copilot           1,751 lines         ██████████████░░░░░░░░░░░   55.84 % 
+Sonnet                   1,369 lines         ███████████░░░░░░░░░░░░░░   43.65 % 
+Claude                   16 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.84% of written lines came from AI
-📚 Verbose Prompter — average 3,100 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 4.29% of changed lines were hand-edited
+🤖 AI-Driven — 95.87% of written lines came from AI
+📚 Verbose Prompter — average 3,539 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 10.32% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/08/07 00:29:16 UTC
+ Last Updated on 2026/08/07 19:33:06 UTC
 <!--END_SECTION:waka-->
