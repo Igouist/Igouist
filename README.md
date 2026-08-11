@@ -35,12 +35,12 @@
 ### 🚽 最新動態
 
 <!-- BLOG-TIMELINE-LIST:START -->
+- [文章的節奏](https://igouist.github.io/timeline/#t-1786423200)
 - [書名太長：一段關於副標題過長的四百字抱怨](https://igouist.github.io/timeline/#t-1782867600)
 - [思考也許會成為一種需要刻意去做的活動](https://igouist.github.io/timeline/#t-1782561600)
 - [回鍋艾爾登法環](https://igouist.github.io/timeline/#t-1779530400)
 - [選擇寫作的人們](https://igouist.github.io/timeline/#t-1778422200)
 - [Feature Flag 的退場機制](https://igouist.github.io/timeline/#t-1777209000)
-- [第一大腦需要餵養模型](https://igouist.github.io/timeline/#t-1776491400)
 <!-- BLOG-TIMELINE-LIST:END -->
 
 <br/>
