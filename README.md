@@ -74,9 +74,9 @@
 ## ✨ STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C639%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C641%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-155%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-156%20hrs%208%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.36%20million%20lines%20of%20code-blue?style=flat)
 
@@ -84,7 +84,7 @@
 
 > 📦 312.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,251 Contributions in the Year 2026
+> 🏆 1,252 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,9 +96,9 @@
 
 ```text
 🌞 Morning                1690 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-🌆 Daytime                2591 commits        ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-🌃 Evening                4156 commits        ██████████░░░░░░░░░░░░░░░   41.55 % 
-🌙 Night                  1566 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+🌆 Daytime                2592 commits        ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+🌃 Evening                4156 commits        ██████████░░░░░░░░░░░░░░░   41.54 % 
+🌙 Night                  1566 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
@@ -108,7 +108,7 @@ Tuesday                  1214 commits        ███░░░░░░░░�
 Wednesday                1150 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
 Thursday                 1020 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
 Friday                   1071 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Saturday                 1560 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Saturday                 1561 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
 Sunday                   2281 commits        ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
 ```
 
@@ -119,50 +119,50 @@ Sunday                   2281 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 10 hrs 17 mins      █████████████░░░░░░░░░░░░   50.06 % 
-C#                       4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-Other                    2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-JSON                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-CSV                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Markdown                 10 hrs 33 mins      █████████████░░░░░░░░░░░░   50.17 % 
+C#                       4 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+Other                    1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+JSON                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+CSV                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 57 mins       ████████████░░░░░░░░░░░░░   48.42 % 
-VS Code                  4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-Codex CLI                2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Codex Vscode             1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Rider                    1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Claude Code              11 hrs 3 mins       █████████████░░░░░░░░░░░░   52.59 % 
+VS Code                  4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Codex CLI                2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Codex Vscode             1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Rider                    1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
 
 💻 Operating System: 
-Windows                  16 hrs 33 mins      ████████████████████░░░░░   80.53 % 
-Linux                    4 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Windows                  16 hrs 11 mins      ███████████████████░░░░░░   77.00 % 
+Linux                    4 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 15 mins (54.72%)
+⏱ AI Coding Time: 11 hrs 28 mins (54.57%)
 
-✍️ 95,873 lines written by AI, 1,710 lines written by hand (98.25% AI-written)
+✍️ 105,100 lines written by AI, 1,155 lines written by hand (98.91% AI-written)
 
-🔤 15,678,706 Input Tokens, 2,172,970 Output Tokens
+🔤 13,744,723 Input Tokens, 1,913,708 Output Tokens
 
-💵 $222.38 Estimated AI Cost This Week
+💵 $127.26 Estimated AI Cost This Week
 
-🧠 66 AI Sessions, 349 AI Prompts
+🧠 52 AI Sessions, 304 AI Prompts
 
-Claude                   53,433 lines        ██████████████░░░░░░░░░░░   56.42 % 
-Sonnet                   36,197 lines        ██████████░░░░░░░░░░░░░░░   38.22 % 
-GPT                      3,028 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Opus                     1,997 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Github-Copilot           57 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Claude                   56,017 lines        █████████████░░░░░░░░░░░░   53.98 % 
+Sonnet                   43,040 lines        ██████████░░░░░░░░░░░░░░░   41.48 % 
+GPT                      2,509 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Opus                     2,143 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Github-Copilot           57 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.25% of written lines came from AI
-📚 Verbose Prompter — average 8,183 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.17% of changed lines were hand-edited
+🤖 AI-Driven — 98.91% of written lines came from AI
+📚 Verbose Prompter — average 5,551 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 1.96% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/09/18 21:09:44 UTC
+ Last Updated on 2026/09/19 20:57:45 UTC
 <!--END_SECTION:waka-->
