@@ -119,49 +119,49 @@ Sunday                   2307 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 3 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   33.56 % 
-Other                    3 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   31.43 % 
-C#                       2 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   28.56 % 
-TypeScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Markdown                 3 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   34.35 % 
+C#                       3 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   30.96 % 
+Other                    2 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+TypeScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 26 mins       ████████████████░░░░░░░░░   63.27 % 
-VS Code                  1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Codex Vscode             59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Rider                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Unknown Editor           35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Claude Code              6 hrs 5 mins        ███████████████░░░░░░░░░░   58.94 % 
+VS Code                  1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Codex Vscode             1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Rider                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+LINQPad7(X64)            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-Linux                    6 hrs 8 mins        ███████████████░░░░░░░░░░   60.33 % 
-Windows                  4 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   39.67 % 
+Linux                    5 hrs 47 mins       ██████████████░░░░░░░░░░░   56.04 % 
+Windows                  4 hrs 32 mins       ███████████░░░░░░░░░░░░░░   43.96 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 7 mins (79.72%)
+⏱ AI Coding Time: 7 hrs 55 mins (76.7%)
 
-✍️ 5,220 lines written by AI, 38 lines written by hand (99.28% AI-written)
+✍️ 5,234 lines written by AI, 40 lines written by hand (99.24% AI-written)
 
-🔤 10,847,767 Input Tokens, 564,600 Output Tokens
+🔤 6,722,899 Input Tokens, 535,932 Output Tokens
 
-💵 $160.72 Estimated AI Cost This Week
+💵 $124.28 Estimated AI Cost This Week
 
-🧠 56 AI Sessions, 134 AI Prompts
+🧠 18 AI Sessions, 138 AI Prompts
 
-Opus                     4,934 lines         ████████████████████████░   94.78 % 
-GPT                      142 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Claude                   130 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     4,934 lines         ████████████████████████░   94.20 % 
+GPT                      148 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Claude                   130 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Github-Copilot           26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.28% of written lines came from AI
+🤖 AI-Driven — 99.24% of written lines came from AI
 📝 Concise Prompter — average 399 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.8% of changed lines were hand-edited
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.83% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/09/28 23:30:20 UTC
+ Last Updated on 2026/09/29 22:36:38 UTC
 <!--END_SECTION:waka-->
