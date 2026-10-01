@@ -119,50 +119,50 @@ Sunday                   2307 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 3 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   39.76 % 
-Other                    2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   27.07 % 
-C#                       2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-TypeScript               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Markdown                 2 hrs 44 mins       ███████████░░░░░░░░░░░░░░   42.11 % 
+C#                       1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   26.88 % 
+Other                    1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+TypeScript               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 55 mins       █████████████░░░░░░░░░░░░   52.43 % 
-VS Code                  1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-Codex Vscode             1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Rider                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Codex CLI                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Claude Code              3 hrs 8 mins        ████████████░░░░░░░░░░░░░   48.05 % 
+VS Code                  1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+Codex Vscode             53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Codex CLI                24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Rider                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
 💻 Operating System: 
-Windows                  4 hrs 46 mins       █████████████░░░░░░░░░░░░   50.76 % 
-Linux                    4 hrs 37 mins       ████████████░░░░░░░░░░░░░   49.24 % 
+Windows                  3 hrs 41 mins       ██████████████░░░░░░░░░░░   56.54 % 
+Linux                    2 hrs 50 mins       ███████████░░░░░░░░░░░░░░   43.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 56 mins (73.91%)
+⏱ AI Coding Time: 4 hrs 22 mins (66.98%)
 
-✍️ 3,797 lines written by AI, 40 lines written by hand (98.96% AI-written)
+✍️ 1,889 lines written by AI, 40 lines written by hand (97.93% AI-written)
 
-🔤 5,117,742 Input Tokens, 479,474 Output Tokens
+🔤 2,610,748 Input Tokens, 301,798 Output Tokens
 
-💵 $103.90 Estimated AI Cost This Week
+💵 $87.84 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 125 AI Prompts
+🧠 14 AI Sessions, 83 AI Prompts
 
-Opus                     3,436 lines         ███████████████████████░░   90.40 % 
-GPT                      209 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Claude                   130 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Github-Copilot           26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Opus                     1,528 lines         ████████████████████░░░░░   80.72 % 
+GPT                      209 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Claude                   130 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Github-Copilot           26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.96% of written lines came from AI
-📝 Concise Prompter — average 460 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.14% of changed lines were hand-edited
+🤖 AI-Driven — 97.93% of written lines came from AI
+📝 Concise Prompter — average 314 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 2.27% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/09/30 22:32:51 UTC
+ Last Updated on 2026/10/01 22:54:22 UTC
 <!--END_SECTION:waka-->
