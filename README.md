@@ -74,9 +74,9 @@
 ## ✨ STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C660%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C662%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-172%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%206%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.38%20million%20lines%20of%20code-blue?style=flat)
 
@@ -119,46 +119,45 @@ Sunday                   2307 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 3 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   41.72 % 
-C#                       3 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   40.23 % 
-Other                    1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+C#                       3 hrs 20 mins       ███████████░░░░░░░░░░░░░░   45.28 % 
+Markdown                 3 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.01 % 
+Other                    49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-Codex Vscode             6 hrs               ██████████████████░░░░░░░   72.15 % 
-Rider                    1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-VS Code                  45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Codex CLI                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Codex Vscode             5 hrs 10 mins       █████████████████░░░░░░░░   69.93 % 
+Rider                    1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+VS Code                  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Windows                  8 hrs 6 mins        ████████████████████████░   97.42 % 
-Linux                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Windows                  7 hrs 10 mins       ████████████████████████░   97.10 % 
+Linux                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 11 mins (62.31%)
+⏱ AI Coding Time: 4 hrs 17 mins (57.98%)
 
 ✍️ 335 lines written by AI, 12 lines written by hand (96.54% AI-written)
 
-🔤 4,040,487 Input Tokens, 310,847 Output Tokens
+🔤 3,425,830 Input Tokens, 260,892 Output Tokens
 
-💵 $18.10 Estimated AI Cost This Week
+💵 $16.77 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 65 AI Prompts
+🧠 16 AI Sessions, 53 AI Prompts
 
 GPT                      339 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 96.54% of written lines came from AI
-📄 Detailed Prompter — average 1,339 characters per prompt
+📄 Detailed Prompter — average 1,402 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 3.42% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/10/13 00:59:30 UTC
+ Last Updated on 2026/10/13 23:04:15 UTC
 <!--END_SECTION:waka-->
