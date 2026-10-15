@@ -74,9 +74,9 @@
 ## ✨ STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C662%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C664%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.40%20million%20lines%20of%20code-blue?style=flat)
 
@@ -119,47 +119,47 @@ Sunday                   2307 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C#                       2 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   36.54 % 
-Markdown                 2 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   30.88 % 
-Other                    2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-PowerShell               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Ezhil                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+C#                       3 hrs 4 mins        ███████████░░░░░░░░░░░░░░   43.30 % 
+Markdown                 1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+Other                    1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+PowerShell               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Ezhil                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-Codex Vscode             4 hrs 37 mins       ██████████████░░░░░░░░░░░   56.77 % 
-Rider                    1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-OMP                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-VS Code                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Omp                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Codex Vscode             4 hrs 5 mins        ██████████████░░░░░░░░░░░   57.60 % 
+Rider                    1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+OMP                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Omp                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+VS Code                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 💻 Operating System: 
-Windows                  7 hrs 57 mins       ████████████████████████░   97.80 % 
-Linux                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Windows                  6 hrs 55 mins       ████████████████████████░   97.48 % 
+Linux                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 42 mins (57.94%)
+⏱ AI Coding Time: 4 hrs 9 mins (58.55%)
 
-✍️ 481 lines written by AI, 12 lines written by hand (97.57% AI-written)
+✍️ 658 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 10,728,426 Input Tokens, 267,377 Output Tokens
+🔤 10,707,907 Input Tokens, 243,544 Output Tokens
 
-💵 $32.09 Estimated AI Cost This Week
+💵 $35.10 Estimated AI Cost This Week
 
-🧠 116 AI Sessions, 101 AI Prompts
+🧠 119 AI Sessions, 107 AI Prompts
 
-GPT                      463 lines           ███████████████████████░░   93.91 % 
-OMP                      30 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+GPT                      640 lines           ████████████████████████░   95.52 % 
+OMP                      30 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.57% of written lines came from AI
-📄 Detailed Prompter — average 620 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 588 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 2.38% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026/10/14 21:56:36 UTC
+ Last Updated on 2026/10/15 21:42:24 UTC
 <!--END_SECTION:waka-->
